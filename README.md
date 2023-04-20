@@ -1,1 +1,2 @@
 # EjemplosJS
+# Example JS function
