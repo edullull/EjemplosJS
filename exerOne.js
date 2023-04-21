@@ -16,3 +16,20 @@ function determinarParImpar(numero){
 
 determinarParImpar(5);
 determinarParImpar(10);
+
+// Esta forma es mas optimizada
+
+function determParImpar(numero){
+    return numero % 2 === 0 ? `${numero} es par` : `${numero} es impar`;
+}
+
+console.log(determParImpar(15));
+
+// Usando ECMAscript
+// esta forma es mucho mejor es mas limpio
+
+const detParImpar = (numero) => {
+    return numero % 2 === 0 ? `${numero} es par` : `${numero} es impar`;
+}
+
+console.log(detParImpar(20));
