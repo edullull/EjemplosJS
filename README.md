@@ -7,4 +7,4 @@
 # para cambiar la url del repo de github
 
 #Esta un poco desornado los ejercicios pero los ire ordenando una vez haya finalizado todos los ejercicios.
-
+#Antes de pushear hay que hacer git pull
