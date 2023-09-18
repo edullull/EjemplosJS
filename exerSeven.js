@@ -7,4 +7,4 @@ for(let number =1; number <= 10; number++){
 for(let number = 1; number <= 10; number++){
     console.log(number);
 }
-//*******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
+//***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*/
