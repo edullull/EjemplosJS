@@ -1,11 +1,22 @@
 {
-  "name": "ejemplosjs",
+  "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "<<<<<<< HEAD # Example JS function ======= # Los ejemplos estan en las notas de como pushear los cambios >>>>>>> d369382aaa9921759717ae28bafa75b98ea21a9b",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edullull/EjemplosJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edullull/EjemplosJS/issues"
+  },
+  "homepage": "https://github.com/edullull/EjemplosJS#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
